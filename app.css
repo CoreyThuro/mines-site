@@ -229,3 +229,19 @@ hr{
     text-decoration: underline;
     text-decoration-color: white;
 }
+
+#record-img-and-p {
+    display: flex;
+    margin-bottom: 100px;
+    margin-left: 0px;
+}
+
+#record-img {
+    height: 200px;
+    display: inline;
+    margin-left: 65px;
+}
+
+#record-img:hover {
+    filter: invert();
+}
